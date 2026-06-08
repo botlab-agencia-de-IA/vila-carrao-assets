@@ -2,7 +2,7 @@
 
 Imagens públicas dos carrosséis do **Residencial Vila Carrão**.
 
-Este repositório é **gerado automaticamente** pelo MazyOS. Cada pasta corresponde a um
+Este repositório é **gerado automaticamente** pelo framework botlab. Cada pasta corresponde a um
 carrossel, com os slides em PNG:
 
 ```
